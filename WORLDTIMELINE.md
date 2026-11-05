@@ -132,8 +132,9 @@ title: World Timeline
   /* Era colors – change these freely */
   .era-mythology        { --era-color: #e9d8fd; }
   .era-conquest         { --era-color: #fed7d7; }
-  .era-abundance-1      { --era-color: #fefcbf; }
-  .era-hunt             { --era-color: #c6f6d5; }
+  .era-abundance-1      { --era-color: #c6f6d5; } 
+  .era-hunt             { --era-color: #fefcbf; }
+  .era-abundance-2      { --era-color: #c6f6d5; }
 
   @media (max-width: 600px) {
     .entry { column-gap: 1.6rem; font-size: 0.9rem; }
@@ -295,6 +296,50 @@ title: World Timeline
   <div class="entry">
   <div class="label">Year 259</div>
     <div class="details">The hunt is declared a victory, with the revelation of the world in flames averted.</div>
+    <div class="details">Dragons who cooperated are granted amnesty and mostly retreat to hidden lairs, although some integrate into society and dragonborn become somewhat commonplace.</div>
+    <div class="details">Connection and cooperation between nations, races, and cultures in the Heartlands reaches an all-time high.</div>
+  </div>
+</div>
+
+<div class="era era-abundance-2">
+  <div class="era-title">Second Age of Abundance<span class="era-dates">Year 34 - Year 229</span></div>  
+  <div class="entry">
+  <div class="label">Year 259</div>
+    <div class="details">The struggle against Dragons is declared over.</div>
+  </div>
+
+  <div class="entry">
+  <div class="label">Year 263</div>
+    <div class="details">Reconstruction in the wake of the Draconic Hunt reaches an end, and society begins advancing beyond where they were the hunt began.</div>
+    <div class="details">Cultural diaspora and intermingling reaches even Dewhelm, including the religion of Theos.</div>
+  </div>
+
+  <div class="entry">
+  <div class="label">Year 264</div>
+    <div class="details">For the first time, Non-Fae creatures witness the descent of Ogrimmal in Dewhelm’s annual summer solstice festival.</div>
+    <div class="details">The college of Umbrage is established to bridge Faefall and Donfair.</div>
+  </div>
+
+  <div class="entry">
+  <div class="label">Year 277</div>
+    <div class="details">The Arcane Arts and Artificing have become part of everyday life in the world.</div>
+  </div>
+
+  <div class="entry">
+  <div class="label">Year 293</div>
+    <div class="details">In the timeless wastes, a dwarf follower of Ogrimmal creates the Jerboas, a species capable of surviving in the Dunes of Steel.</div>
+    <div class="details">This draws the attention of Orimmal, and the dwarf becomes a demigod of life now known as Papa Sand.</div>
+  </div>
+
+  <div class="entry">
+  <div class="label">Year 317</div>
+    <div class="details">Trade Routes between kingdoms are now well established, and teleportation magic is being put into place.</div>
+    <div class="details">The first splintered tavern is built and is overseen by Papa Sand.</div>
+  </div>
+
+  <div class="entry">
+  <div class="label">Year 337</div>
+    <div class="details">The High Council of the elves convenes to determine whether the faith of Theos should be allowed into their doctrine.</div>
   </div>
 </div>
 
