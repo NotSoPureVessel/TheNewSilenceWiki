@@ -145,6 +145,7 @@ title: World Timeline
 </style>
 
 # Timeline
+An overview of Heartlands history, compiled by the Keep of Time.
 
 <div class="timeline">
 
