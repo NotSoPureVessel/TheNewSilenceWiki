@@ -207,7 +207,7 @@ title: World Timeline
   <div class="label">Year 34</div>
     <div class="details">The conquest is made complete. Barrabas Kane and the current Dwarven queen agree to pardon all dissenters who submit to their rule. Those who agree go on to found Hell’s Kitchen and the Rothold.</div>
   </div>
-  
+</div>
 </div>
 
 <div class="era era-faith">
