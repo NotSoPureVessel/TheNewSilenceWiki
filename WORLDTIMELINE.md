@@ -181,7 +181,6 @@ title: World Timeline
     <div class="details">Those touched by feel blood and their descendants become Tieflings.</div>
 </div>
 </div>
-</div>
 
 <div class="era era-conquest">
 <div class="era-title">Age of Conquest<span class="era-dates">c. 800 BCE – 100 CE</span></div>
