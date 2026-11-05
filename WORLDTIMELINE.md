@@ -67,7 +67,7 @@ title: World Timeline
   }
 
   .entry .label {
-    grid-column: 1
+    grid-column: 1;
     text-align: right;
     font-weight: 700;
     font-size: 1.1rem;
