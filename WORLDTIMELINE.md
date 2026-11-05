@@ -62,10 +62,12 @@ title: World Timeline
     display: grid;
     grid-template-columns: 1fr 1fr;
     column-gap: 2.5rem;
+    row-gap: 0.7rem;
     margin-bottom: 1.5rem;
   }
 
   .entry .label {
+    grid-column: 1
     text-align: right;
     font-weight: 700;
     font-size: 1.1rem;
@@ -79,6 +81,9 @@ title: World Timeline
   }
 
   .entry .details {
+    grid-column: 2;
+    position: relative;
+    padding-left: 1.2em;
     text-align: left;
     color: #1a1a1a;
     line-height: 1.45;
@@ -86,7 +91,7 @@ title: World Timeline
 
   /* Dot on the line for each entry */
   .entry::after {
-    content: "";
+    content: "-";
     position: absolute;
     top: 0.45rem;
     left: 50%;
