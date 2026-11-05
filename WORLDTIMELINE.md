@@ -117,8 +117,14 @@ title: World Timeline
 <div class="era era-mythology">
 <div class="era-title">Age of Mythology<span class="era-dates">c. 3000 – 1200 BCE</span></div>
 <div class="entry">
-<div class="label">c. 3000 BCE</div>
-<div class="details">Early city-states rise along the great river valleys, each with its own patron gods.</div>
+<div class="label">c. Fae Mythology</div>
+<div class="details">It is said the Fae were among the first beings to evolve to the state we know them in now.</div>
+<div class="details">Among these immortal eldritch Fae, Ogrimmal ascended to godhood.</div>
+<div class="details">He and his kin departed the Heartlands to the Feywild to allow other life in the Heartlands to grow naturally and outside their influence for as long as possible.</div>
+<div class="details">Eventually one of Ogrimmal’s own kin named Vishkaz challenged him for his divine throne
+</div>
+<div class="details">The corpse of this usurper Fae fell to the earth, its blood mixing with Ogrimmal’s own blood and tears, from which sprouted Faefall.</div>
+<div class="details">Ogrimmal guided the life that was born there, and thus the first mortal Fae including elves and hobgoblins were born.</div>
 </div>
 <div class="entry">
 <div class="label">The Age of Heroes<small>sub-era</small></div>
@@ -133,7 +139,7 @@ title: World Timeline
 <div class="era era-conquest">
 <div class="era-title">Age of Conquest<span class="era-dates">c. 800 BCE – 100 CE</span></div>
 <div class="entry">
-<div class="label">776 BCE</div>
+<div class="label">Fae Mythology</div>
 <div class="details">The first recorded athletic games unite rival city-states in shared competition.</div>
 </div>
 <div class="entry">
