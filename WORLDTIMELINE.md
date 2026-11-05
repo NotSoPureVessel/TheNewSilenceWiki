@@ -183,19 +183,31 @@ title: World Timeline
 </div>
 
 <div class="era era-conquest">
-<div class="era-title">Age of Conquest<span class="era-dates">c. 800 BCE – 100 CE</span></div>
-<div class="entry">
-<div class="label">Fae Mythology</div>
-<div class="details">The first recorded athletic games unite rival city-states in shared competition.</div>
-</div>
-<div class="entry">
-<div class="label">The Rise of Empires<small>sub-era</small></div>
-<div class="details">Powerful rulers expand their borders through military campaigns and alliances.</div>
-</div>
-<div class="entry">
-<div class="label">323 BCE</div>
-<div class="details">The death of a famed conqueror splits his vast empire among rival generals.</div>
-</div>
+  <div class="era-title">Age of Conquest<span class="era-dates">Year 0 - Year 34</span></div>  
+  <div class="entry">
+  <div class="label">Year 0</div>
+    <div class="details">A hobbit named Barrabas Kane sets out to unite the scattered fiefdoms in the plains.</div>
+    <div class="details">He declares himself first king, and names the plains under his control Donfair.</div>
+  </div>
+
+  <div class="label">Year 8</div>
+    <div class="details">Dissenters to Barrabas’ unification efforts rise up against him.</div>
+    <div class="details">They are defeated and mostly executed, those who escape flee to Endormir and group up with Dwarven separatists.</div>
+  </div>
+
+  <div class="label">Year 9</div>
+    <div class="details">In pursuit of the rebels, the short-lived species of Donfair make contact with the Dwarves for the first time.</div>
+  </div>
+
+  <div class="label">Year 11</div>
+    <div class="details">After years of negotiation, Endormir and Donfair set out to unite their kingdoms and destroy all opposition.</div>
+    <div class="details">It is said as the conquest march began, Theos watched in silence and Ogrimmal wept.</div>
+  </div>
+
+  <div class="label">Year 34</div>
+    <div class="details">The conquest is made complete. Barrabas Kane and the current Dwarven queen agree to pardon all dissenters who submit to their rule. Those who agree go on to found Hell’s Kitchen and the Rothold.</div>
+  </div>
+  
 </div>
 
 <div class="era era-faith">
