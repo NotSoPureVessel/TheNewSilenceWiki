@@ -376,7 +376,7 @@ title: World Timeline
 </div>
 
 <div class="era era-grey">
-  <div class="era-title">Century of Screams<span class="era-dates">Year 423 - Year 450</span></div>  
+  <div class="era-title">Age of the Grey<span class="era-dates">Year 423 - Year 450</span></div>  
   <div class="entry">
   <div class="label">Year 423</div>
     <div class="details">The Fell serpent is finally slain, marking the end Century of Screams.</div>
