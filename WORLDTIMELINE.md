@@ -131,10 +131,12 @@ title: World Timeline
 
   /* Era colors – change these freely */
   .era-mythology        { --era-color: #e9d8fd; }
-  .era-conquest         { --era-color: #fed7d7; }
+  .era-conquest         { --era-color: #fc9c60; }
   .era-abundance-1      { --era-color: #c6f6d5; } 
   .era-hunt             { --era-color: #fefcbf; }
   .era-abundance-2      { --era-color: #c6f6d5; }
+  .era-screams          { --era-color: #ff5959; }
+  .era-grey             { --era-color: #a8a8a8; }
 
   @media (max-width: 600px) {
     .entry { column-gap: 1.6rem; font-size: 0.9rem; }
@@ -302,7 +304,7 @@ title: World Timeline
 </div>
 
 <div class="era era-abundance-2">
-  <div class="era-title">Second Age of Abundance<span class="era-dates">Year 34 - Year 229</span></div>  
+  <div class="era-title">Second Age of Abundance<span class="era-dates">Year 259 - Year 337</span></div>  
   <div class="entry">
   <div class="label">Year 259</div>
     <div class="details">The struggle against Dragons is declared over.</div>
@@ -340,6 +342,67 @@ title: World Timeline
   <div class="entry">
   <div class="label">Year 337</div>
     <div class="details">The High Council of the elves convenes to determine whether the faith of Theos should be allowed into their doctrine.</div>
+  </div>
+</div>
+
+<div class="era era-screams">
+  <div class="era-title">Century of Screams<span class="era-dates">Year 337 - Year 423</span></div>  
+  <div class="entry">
+  <div class="label">Year 259</div>
+    <div class="details">The struggle against Dragons is declared over.</div>
+  </div>
+
+  <div class="entry">
+  <div class="label">Year 337</div>
+    <div class="details">The High Council of the elves is slaughtered in their own meeting chamber.</div>
+    <div class="details">A war breaks out between the penitents of time and life over the slaughter.</div>
+  </div>
+
+  <div class="entry">
+  <div class="label">Year 421</div>
+    <div class="details">The Fell Serpent descends upon the heartlands, ending the war and beginning the Infernal Battle.</div>
+  </div>
+
+  <div class="entry">
+  <div class="label">Year 422</div>
+    <div class="details">The royal family of Donfair is overturned by the mercenary Rowl.</div>
+    <div class="details">He is an ingenious general and steps up as the leader the world needs, but is simultaneously unstable and takes many concubines.</div>
+  </div>
+
+  <div class="entry">
+  <div class="label">Year 423</div>
+    <div class="details">The Fell serpent is finally slain on the west coast, and the Century of Screams comes to a close.</div>
+  </div>
+</div>
+
+<div class="era era-grey">
+  <div class="era-title">Century of Screams<span class="era-dates">Year 423 - Year 450</span></div>  
+  <div class="entry">
+  <div class="label">Year 423</div>
+    <div class="details">The Fell serpent is finally slain, marking the end Century of Screams.</div>
+    <div class="details">Those touched by the serpent’s blood either by physically or by descendance were irreversibly and became Tieflings. The city of Pintor on the west coast is most deeply affected, and becomes known as Hell's Kitchen.</div>
+  </div>
+
+  <div class="entry">
+  <div class="label">Year 425</div>
+    <div class="details">Hidden within Donfair the Concubine Wars break out between Rowl’s children and their mothers, all vying to become his legitimate heir.</div>
+    <div class="details">Most of Rowl’s children are killed in the invisible conflict, Gaius and Flora survive.</div>
+  </div>
+
+  <div class="entry">
+  <div class="label">Year 428</div>
+    <div class="details">Rowl is assassinated by his living children and concubines.</div>
+    <div class="details">The Court of Princes is formed from Rowl's survivng children and becomes the new ruling body of Donfair. They initiate a search for any other living heirs.</div>
+  </div>
+
+  <div class="entry">
+  <div class="label">Year 449</div>
+    <div class="details">A second continent is discovered by a small expedition team, dubbed the New World.</div>
+  </div>
+
+  <div class="entry">
+  <div class="label">Year 450</div>
+    <div class="details">An order was sent out by both churches to assemble a new pilgrim force to explore this new world.</div>
   </div>
 </div>
 
