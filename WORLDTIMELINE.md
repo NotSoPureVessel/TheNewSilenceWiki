@@ -7,7 +7,7 @@ title: World Timeline
   html { overflow-x: hidden; }
   
   .timeline {
-    --line-x: 50%;
+    --line-x: 30%;
     position: relative;
     max-width: 960px;
     margin: 2rem auto;
