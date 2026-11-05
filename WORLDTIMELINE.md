@@ -148,14 +148,13 @@ title: World Timeline
 <div class="era era-mythology">
 <div class="era-title">Age of Mythology<span class="era-dates"> The time before recorded history, detailing the fabled origin of lands and peoples </span></div>
 <div class="entry">
-<div class="label">Fae Mythology</div>
-<div class="details">It is said the Fae were among the first beings to evolve to the state we know them in now.</div>
-<div class="details">Among these immortal eldritch Fae, Ogrimmal ascended to godhood.</div>
-<div class="details">He and his kin departed the Heartlands to the Feywild to allow other life in the Heartlands to grow naturally and outside their influence for as long as possible.</div>
-<div class="details">Eventually one of Ogrimmal’s own kin named Vishkaz challenged him for his divine throne
-</div>
-  <div class="details">The corpse of this usurper Fae fell to the earth, its blood mixing with Ogrimmal’s own blood and tears, from which sprouted Faefall.</div>
-  <div class="details">Ogrimmal guided the life that was born there, and thus the first mortal Fae including elves and hobgoblins were born.</div>
+  <div class="label">Fae Mythology</div>
+    <div class="details">It is said the Fae were among the first beings to evolve to the state we know them in now.</div>
+    <div class="details">Among these immortal eldritch Fae, Ogrimmal ascended to godhood.</div>
+    <div class="details">He and his kin departed the Heartlands to the Feywild to allow other life in the Heartlands to grow naturally and outside their influence for as long as possible.</div>
+    <div class="details">Eventually one of Ogrimmal’s own kin named Vishkaz challenged him for his divine throne</div>
+    <div class="details">The corpse of this usurper Fae fell to the earth, its blood mixing with Ogrimmal’s own blood and tears, from which sprouted Faefall.</div>
+    <div class="details">Ogrimmal guided the life that was born there, and thus the first mortal Fae including elves and hobgoblins were born.</div>
 </div>
 
 <div class="entry">
@@ -173,7 +172,6 @@ title: World Timeline
     <div class="details">They swear fealty to no order in the Heartlands divine or otherwise, serving only their personal desires.</div>
 </div>
 
-</div>
 <div class="entry">
   <div class="label">Fell Mythology</div>
     <div class="details">Before all things, there was only the Silence, out of which the planes of existence were born.</div>
@@ -181,6 +179,7 @@ title: World Timeline
     <div class="details">Theos taught the Dwarven people to understand their origins.</div>
     <div class="details">The Fell Serpent, God of Silence, arose from this wish to undo all that has been done.</div>
     <div class="details">Those touched by feel blood and their descendants become Tieflings.</div>
+</div>
 </div>
 </div>
 
