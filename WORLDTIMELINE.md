@@ -51,17 +51,17 @@ title: World Timeline
 
   .era-title {
     position: relative;
-    left: var(--line-x);
     z-index: 3;
-    width: fit-content;
-    margin: 0 auto 1.5rem;
-    padding: 0.4rem 1.2rem;
-    background: #222;
+    width: calc(var(--line-x) * 2);   /* centers the text on the line */
+    margin: -1.5rem 0 1.5rem;         /* pulls the bar up to the top edge of the era */
+    padding: 0.8rem 0;
+    background: #000;
     color: #fff;
-    border-radius: 999px;
     font-size: 1.25rem;
     font-weight: 700;
     text-align: center;
+    box-shadow: 0 0 0 100vmax #000;   /* stretches the black out to the edges of the page */
+    clip-path: inset(0 -100vmax);     /* keeps the stretch horizontal only */
   }
 
   .era-dates {
