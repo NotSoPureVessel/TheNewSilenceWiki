@@ -80,6 +80,13 @@ title: World Timeline
     font-style: italic;
   }
 
+  .entry .details::before {
+  content: "–";
+  position: absolute;
+  left: 0;
+  top: 0;
+  }
+  
   .entry .details {
     grid-column: 2;
     position: relative;
@@ -91,7 +98,7 @@ title: World Timeline
 
   /* Dot on the line for each entry */
   .entry::after {
-    content: "-";
+    content: "";
     position: absolute;
     top: 0.45rem;
     left: 50%;
