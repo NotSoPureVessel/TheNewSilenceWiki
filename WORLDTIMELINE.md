@@ -53,7 +53,7 @@ title: World Timeline
     position: relative;
     z-index: 3;
     width: calc(var(--line-x) * 2);   /* centers the text on the line */
-    margin: -1rem 0 1.5rem;         /* pulls the bar up to the top edge of the era */
+    margin: 0rem 0 1.5rem;         /* position relative to the rest of the era box */
     padding: 0.8rem 0;
     background: #000;
     color: #fff;
