@@ -3,12 +3,15 @@ title: World Timeline
 ---
 
 <style>
+
+  html { overflow-x: hidden; }
+  
   .timeline {
-    --line: #444;
+    --line-x: 50%;
     position: relative;
     max-width: 960px;
     margin: 2rem auto;
-    padding: 0 1rem;
+    padding: 0;
   }
 
   /* The single line down the middle */
@@ -17,25 +20,37 @@ title: World Timeline
     position: absolute;
     top: 0;
     bottom: 0;
-    left: 50%;
+    left: var(--line-x);
     width: 4px;
     margin-left: -2px;
     background: var(--line);
     z-index: 1;
   }
 
+  .era::before {                 /* NEW: the full-width colored box */
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    width: 100vw;
+    margin-left: -50vw;
+    background: var(--era-color);
+    border-top: 2px solid rgba(0, 0, 0, 0.15);
+    border-bottom: 2px solid rgba(0, 0, 0, 0.15);
+    z-index: 0;
+  }
+  
   /* Large colored era boxes */
   .era {
     position: relative;
     margin: 0 0 2.5rem;
-    padding: 1.5rem 1rem 1rem;
-    border-radius: 14px;
-    border: 2px solid rgba(0, 0, 0, 0.15);
-    background: var(--era-color);
+    padding: 1.5rem 0 1rem;
   }
 
   .era-title {
     position: relative;
+    left: var(--line-x);
     z-index: 3;
     width: fit-content;
     margin: 0 auto 1.5rem;
@@ -60,7 +75,7 @@ title: World Timeline
     position: relative;
     z-index: 2;
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: calc(var(--line-x) - 1.25rem) 1fr;
     column-gap: 2.5rem;
     row-gap: 0.7rem;
     margin-bottom: 1.5rem;
@@ -73,6 +88,9 @@ title: World Timeline
     font-size: 1.1rem;
     color: #1a1a1a;
   }
+
+  .entry .label   { padding-left: 1rem; }   /* NEW: add to your existing label rule */
+  .entry .details { padding-right: 1rem; }  /* NEW: add to your existing details rule */
 
   .entry .label small {
     display: block;
@@ -101,7 +119,7 @@ title: World Timeline
     content: "";
     position: absolute;
     top: 0.45rem;
-    left: 50%;
+    left: var(--line-x);
     width: 14px;
     height: 14px;
     margin-left: -7px;
