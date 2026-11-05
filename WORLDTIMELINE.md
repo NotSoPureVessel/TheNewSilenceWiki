@@ -130,10 +130,10 @@ title: World Timeline
   }
 
   /* Era colors – change these freely */
-  .era-mythology  { --era-color: #e9d8fd; }
-  .era-conquest   { --era-color: #fed7d7; }
-  .era-faith      { --era-color: #fefcbf; }
-  .era-revolution { --era-color: #c6f6d5; }
+  .era-mythology        { --era-color: #e9d8fd; }
+  .era-conquest         { --era-color: #fed7d7; }
+  .era-abundance-1      { --era-color: #fefcbf; }
+  .era-hunt             { --era-color: #c6f6d5; }
 
   @media (max-width: 600px) {
     .entry { column-gap: 1.6rem; font-size: 0.9rem; }
@@ -214,7 +214,7 @@ title: World Timeline
 </div>
 
 <div class="era era-abundance-1">
-  <div class="era-title">First Age of Abundance<span class="era-dates">Year 34 - Year 162</span></div>  
+  <div class="era-title">First Age of Abundance<span class="era-dates">Year 34 - Year 229</span></div>  
   <div class="entry">
   <div class="label">Year 34</div>
     <div class="details">The conquest of Garnus and Donfair comes to an ends.</div>
@@ -259,6 +259,42 @@ title: World Timeline
   <div class="entry">
   <div class="label">Year 229</div>
     <div class="details">A Hobgoblin child receives a revelation from Theos.</div>
+  </div>
+</div>
+
+<div class="era era-hunt">
+  <div class="era-title">Age of the Hunt<span class="era-dates">Year 229 - Year 259</span></div>  
+  <div class="entry">
+  <div class="label">Year 34</div>
+    <div class="details">The conquest of Garnus and Donfair comes to an ends.</div>
+  </div>
+
+  <div class="entry">
+  <div class="label">Year 229</div>
+    <div class="details">A hobgoblin child receives a revelation from Theos, a vision of the world in flames and dragons overhead.</div>
+    <div class="details">That night, a dragon descends upon Faefall and scorches much of it.</div>
+    <div class="details">For the first time, the elven council of Dewhelm willingly reaches out to the rest of the world for aid.</div>
+  </div>
+
+  <div class="entry">
+  <div class="label">Year 230</div>
+    <div class="details">A gnome named Galliard Timbers sacrifices his many centuries of life to receive revelations from Theos.</div>
+    <div class="details">He becomes known as the first Artificer.</div>
+  </div>
+
+  <div class="entry">
+  <div class="label">Year 230</div>
+    <div class="details">A pact is made across all nations to hunt the dragons to extinction.</div>
+  </div>
+
+  <div class="entry">
+  <div class="label">Year 234</div>
+    <div class="details">The first Warforged are birthed to fight the Dragons, with an urge to hunt and slay them programmed into them at the kernel level.</div>
+  </div>
+
+  <div class="entry">
+  <div class="label">Year 259</div>
+    <div class="details">The hunt is declared a victory, with the revelation of the world in flames averted.</div>
   </div>
 </div>
 
