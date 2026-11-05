@@ -221,6 +221,11 @@ An overview of Heartlands history, compiled by the Keep of Time.
   <div class="era-title">First Age of Abundance<span class="era-dates">Year 34 - Year 229</span></div>  
 
   <div class="entry">
+  <div class="label">Year 34</div>
+    <div class="details">The conquest of Garnus and Donfair comes to an ends.</div>
+  </div>
+
+  <div class="entry">
   <div class="label">Year 130</div>
     <div class="details">On the epoch of his 14th decade in rule, Barrabas Kane passes away and leaves his eldest child to be king, founding the first royal family of Donfair.</div>
     <div class="details">His rule after the great conquest is remembered as a time of unprecedented peace.</div>
@@ -264,10 +269,6 @@ An overview of Heartlands history, compiled by the Keep of Time.
 
 <div class="era era-hunt">
   <div class="era-title">Age of the Hunt<span class="era-dates">Year 229 - Year 259</span></div>  
-  <div class="entry">
-  <div class="label">Year 34</div>
-    <div class="details">The conquest of Garnus and Donfair comes to an ends.</div>
-  </div>
 
   <div class="entry">
   <div class="label">Year 229</div>
@@ -344,10 +345,6 @@ An overview of Heartlands history, compiled by the Keep of Time.
 
 <div class="era era-screams">
   <div class="era-title">Century of Screams<span class="era-dates">Year 337 - Year 423</span></div>  
-  <div class="entry">
-  <div class="label">Year 259</div>
-    <div class="details">The struggle against Dragons is declared over.</div>
-  </div>
 
   <div class="entry">
   <div class="label">Year 337</div>
