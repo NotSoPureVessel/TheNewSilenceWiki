@@ -213,28 +213,53 @@ title: World Timeline
   </div>
 </div>
 
-<div class="era era-faith">
-<div class="era-title">Age of Faith<span class="era-dates">c. 100 – 1500 CE</span></div>
-<div class="entry">
-<div class="label">476 CE</div>
-<div class="details">Imperial authority collapses in the west, and religious institutions become the main source of stability.</div>
-</div>
-<div class="entry">
-<div class="label">The Crusades<small>sub-era</small></div>
-<div class="details">Successive military expeditions reshape trade, politics, and religious relations.</div>
-</div>
-</div>
+<div class="era era-abundance-1">
+  <div class="era-title">First Age of Abundance<span class="era-dates">Year 34 - Year 162</span></div>  
+  <div class="entry">
+  <div class="label">Year 34</div>
+    <div class="details">The conquest of Garnus and Donfair comes to an ends.</div>
+  </div>
 
-<div class="era era-revolution">
-<div class="era-title">Age of Revolution<span class="era-dates">c. 1500 – 1900 CE</span></div>
-<div class="entry">
-<div class="label">1776</div>
-<div class="details">Colonists declare independence, inspiring movements for self-rule worldwide.</div>
-</div>
-<div class="entry">
-<div class="label">1789</div>
-<div class="details">Revolution in France overturns the monarchy and spreads new ideas of citizenship.</div>
-</div>
+  <div class="entry">
+  <div class="label">Year 130</div>
+    <div class="details">On the epoch of his 14th decade in rule, Barrabas Kane passes away and leaves his eldest child to be king, founding the first royal family of Donfair.</div>
+    <div class="details">His rule after the great conquest is remembered as a time of unprecedented peace.</div>
+  </div>
+
+  <div class="entry">
+  <div class="label">Year 144</div>
+    <div class="details">A gnome named Galliard Timbers sacrifices his many centuries of life to receive revelations from Theos.</div>
+    <div class="details">He becomes known as the first Artificer.</div>
+  </div>
+
+  <div class="entry">
+  <div class="label">Year 162</div>
+    <div class="details">Thanks to leaps in technology, sea travel has become more safe.</div>
+    <div class="details">Official studies of the arcane arts have begun.</div>
+  </div>
+
+  <div class="entry">
+  <div class="label">Year 179</div>
+    <div class="details">A wizard makes first recorded contact with another plane of existence, one even older than the Heartlands, and succumbs to madness. This wizard becomes the first warlock, a demigod of Silence now known as the Ferryman.</div>
+    <div class="details">This place is dubbed the Silent Plane, the Shadowfell.</div>
+  </div>
+
+  <div class="entry">
+  <div class="label">Year 183</div>
+    <div class="details">First contact is made between Fae creatures and the rest of the world.</div>
+    <div class="details">There are several border incidents, but eventually a truce that isolates the Faefall forest is made.</div>
+  </div>
+
+  <div class="entry">
+  <div class="label">Year 225</div>
+    <div class="details">Galliard Timbers receives a final revelation from Theos on his deathbed.</div>
+    <div class="details">He uses the information in this revelation to draft a prototype invention and dubs it the Warforged, entrusting a piece of the blueprint to several lords in Donfair and Endormir.</div>
+  </div>
+
+  <div class="entry">
+  <div class="label">Year 229</div>
+    <div class="details">A Hobgoblin child receives a revelation from Theos.</div>
+  </div>
 </div>
 
 </div>
