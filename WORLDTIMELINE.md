@@ -219,10 +219,6 @@ An overview of Heartlands history, compiled by the Keep of Time.
 
 <div class="era era-abundance-1">
   <div class="era-title">First Age of Abundance<span class="era-dates">Year 34 - Year 229</span></div>  
-  <div class="entry">
-  <div class="label">Year 34</div>
-    <div class="details">The conquest of Garnus and Donfair comes to an ends.</div>
-  </div>
 
   <div class="entry">
   <div class="label">Year 130</div>
