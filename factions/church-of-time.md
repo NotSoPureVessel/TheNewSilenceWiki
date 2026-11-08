@@ -1,3 +1,5 @@
+[Home](https://notsopurevessel.github.io/TheNewSilenceWiki) > [Factions](https://notsopurevessel.github.io/TheNewSilenceWiki/FACTIONS) > [The Church of Time](https://notsopurevessel.github.io/TheNewSilenceWiki/factions/church-of-time)
+
 ## The Church of Time
 
 Based in Ervein, capital of the ADD LINK Donfair Empire.
