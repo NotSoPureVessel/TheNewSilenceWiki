@@ -18,13 +18,13 @@ Nemo
 
 Ahab
 
-Lorenzo
-
 Minestrone
 
-Peleus Brand \[Formerly, Now Off-Plane\]
+Peleus Brand \[Formerly Pope, Now Off-Plane\]
 
 Galliard Timbers \[Formerly, Now Off-Plane\]
+
+Lorenzo \[Formerly, Deceased\]
 
 Kalkiev, the Coral Spectator \[Formerly, Deceased\]
 
