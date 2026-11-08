@@ -2,9 +2,9 @@
 
 ## The Church of Time
 
-Based in Ervein, capital of the ADD LINK Donfair Empire.
+Based in Ervein, capital of the [Donfair Empire](https://notsopurevessel.github.io/TheNewSilenceWiki/factions/donfair-empire).
 
-Worships Theos, Goddess of Time, watcher of stars and futures.
+Worships Theos, Goddess of Time, watcher of stars and fates.
 
 # Members
 
@@ -20,10 +20,14 @@ Lorenzo
 
 # Connected Factions
 
-Keep of Time
+[Keep of Time](https://notsopurevessel.github.io/TheNewSilenceWiki/factions/keep-of-time)
 
-Astral Court
+[Breathing Moulde](https://notsopurevessel.github.io/TheNewSilenceWiki/factions/breathing-moulde)
 
-Penitents of the Timeless Wastes
+[Astral Court](https://notsopurevessel.github.io/TheNewSilenceWiki/factions/astral-court)
 
-The Gourmands
+[Donfair Empire](https://notsopurevessel.github.io/TheNewSilenceWiki/factions/penitents-of-the-timeless-wastes)
+
+[Donfair Empire](https://notsopurevessel.github.io/TheNewSilenceWiki/factions/donfair-empire)
+
+[The Gourmands](https://notsopurevessel.github.io/TheNewSilenceWiki/factions/gourmands)
