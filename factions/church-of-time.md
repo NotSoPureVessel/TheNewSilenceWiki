@@ -10,9 +10,9 @@ One of the two theological superpowers in the heartlands, and one of the two maj
 
 # Members
 
-Soren [\Pope\]
+Soren \[Pope\]
 
-Draken Fraid [\Inquisitor\]
+Draken Fraid \[Inquisitor\]
 
 Nemo
 
