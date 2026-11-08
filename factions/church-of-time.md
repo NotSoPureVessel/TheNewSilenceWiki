@@ -2,21 +2,33 @@
 
 ## The Church of Time
 
-Based in Ervein, capital of the [Donfair Empire](https://notsopurevessel.github.io/TheNewSilenceWiki/factions/donfair-empire).
+Headquartered in Ervein, capital of the [Donfair Empire](https://notsopurevessel.github.io/TheNewSilenceWiki/factions/donfair-empire).
 
 Worships Theos, Goddess of Time, watcher of stars and fates.
 
+One of the two theological superpowers in the heartlands, and one of the two major adversarial parties during the Century of Screams.
+
 # Members
+
+Soren [\Pope\]
+
+Draken Fraid [\Inquisitor\]
 
 Nemo
 
-Draken Fraid
-
 Ahab
 
-Soren
-
 Lorenzo
+
+Minestrone
+
+Peleus Brand \[Formerly, Now Off-Plane\]
+
+Galliard Timbers \[Formerly, Now Off-Plane\]
+
+Kalkiev, the Coral Spectator \[Formerly, Deceased\]
+
+
 
 # Connected Factions
 
