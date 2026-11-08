@@ -66,6 +66,8 @@ title: Factions
   .faction.former { filter: saturate(0.5) brightness(0.9); }
 </style>
 
+[Home](https://notsopurevessel.github.io/TheNewSilenceWiki) > [Factions](https://notsopurevessel.github.io/TheNewSilenceWiki/FACTIONS)
+
 # Factions
 
 The various forces which call the Heartlands home, or have a vested interest in its events.
