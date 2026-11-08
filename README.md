@@ -1,3 +1,4 @@
+## The New Silence
 
 A generation has passed since the Century of Screams. The Heartlands have passed through their Age of the Grey. The New World and all the secrets it holds looms on the horizon, all the while darkness new and old begins to move.
 
