@@ -74,22 +74,22 @@ The various forces which call the Heartlands home, or have a vested interest in 
 <a class="faction" style="--color:#00f0fc" href="factions/church-of-time"><div class="symbol">🔭</div><div class="faction-name">Church of Time</div></a>
 <a class="faction" style="--color:#6e00c2" href="factions/keep-of-time"><div class="symbol">🧭</div><div class="faction-name">Keep of Time</div></a>
 <a class="faction" style="--color:#012545" href="factions/breathing-moulde"><div class="symbol">⛭</div><div class="faction-name">Breathing Moulde</div></a>
-<a class="faction" style="--color:#5b4a8a" href="factions/aastral-court"><div class="symbol">⚖️</div><div class="faction-name">Astral Court</div></a>
-<a class="faction" style="--color:#730103" href="factions/penitents-of-the-timeless-wastes"><div class="symbol">❄️</div><div class="faction-name">Penitents of the Timeless Wastes</div></a>
-<a class="faction" style="--color:#97b1c7" href="factions/church-of-life"><div class="symbol">🐐</div><div class="faction-name">Church of Life</div></a>
-<a class="faction" style="--color:#047502" href="factions/bard-board"><div class="symbol">🪉</div><div class="faction-name">Bard Board</div></a>
-<a class="faction former" style="--color:#2e6b52" href="factions/elven-council"><div class="symbol">🌿</div><div class="faction-name">Elven Council<span class="former-tag">FORMER</span></div></a>
-<a class="faction" style="--color:#7a7a5a" href="factions/penitents-of-the-lifeless-wastes"><div class="symbol">🌋</div><div class="faction-name">Penitents of the Lifeless Wastes</div></a>
-<a class="faction" style="--color:#444444" href="factions/legions-of-silence"><div class="symbol">😈</div><div class="faction-name">Legions of Silence</div></a>
-<a class="faction" style="--color:#7a2e3a" href="factions/syndicates"><div class="symbol">🔫</div><div class="faction-name">Syndicates</div></a>
-<a class="faction former" style="--color:#6b3a6b" href="factions/dewhelm-drug-ring"><div class="symbol">🧪</div><div class="faction-name">Dewhelm Drug Ring<span class="former-tag">FORMER</span></div></a>
-<a class="faction former" style="--color:#a05a2c" href="factions/gourmands"><div class="symbol">😋</div><div class="faction-name">Gourmands<span class="former-tag">FORMER</span></div></a>
-<a class="faction" style="--color:#3b3b4f" href="factions/stilldead"><div class="symbol">💀</div><div class="faction-name">Stilldead</div></a>
-<a class="faction" style="--color:#55702f" href="factions/slitherers"><div class="symbol">🐍</div><div class="faction-name">Slitherers</div></a>
-<a class="faction" style="--color:#5e4630" href="factions/the-rothold"><div class="symbol">⚔️</div><div class="faction-name">The Rothold</div></a>
-<a class="faction" style="--color:#8a2b2b" href="factions/donfair-empire"><div class="symbol">🏰</div><div class="faction-name">Donfair Empire</div></a>
-<a class="faction" style="--color:#8a6d1f" href="factions/court-of-princes"><div class="symbol">👑</div><div class="faction-name">Court of Princes</div></a>
-<a class="faction" style="--color:#2b6a7a" href="factions/garnus-alliance"><div class="symbol">⛰️</div><div class="faction-name">Garnus Alliance</div></a>
-<a class="faction" style="--color:#6a5a4a" href="factions/dwarves-of-ervein"><div class="symbol">⚒️</div><div class="faction-name">Dwarves of Ervein</div></a>
-<a class="faction" style="--color:#7a4a2a" href="factions/splintered-tavern"><div class="symbol">🍺</div><div class="faction-name">Splintered Tavern</div></a>
+<a class="faction" style="--color:#730103" href="factions/astral-court"><div class="symbol">⚖️</div><div class="faction-name">Astral Court</div></a>
+<a class="faction" style="--color:#97b1c7" href="factions/penitents-of-the-timeless-wastes"><div class="symbol">❄️</div><div class="faction-name">Penitents of the Timeless Wastes</div></a>
+<a class="faction" style="--color:#047502" href="factions/church-of-life"><div class="symbol">🐐</div><div class="faction-name">Church of Life</div></a>
+<a class="faction" style="--color:##769942" href="factions/bard-board"><div class="symbol">🪉</div><div class="faction-name">Bard Board</div></a>
+<a class="faction former" style="--color:#b9f21d" href="factions/elven-council"><div class="symbol">🌿</div><div class="faction-name">Elven Council<span class="former-tag">FORMER</span></div></a>
+<a class="faction" style="--color:#ad5700" href="factions/penitents-of-the-lifeless-wastes"><div class="symbol">🌋</div><div class="faction-name">Penitents of the Lifeless Wastes</div></a>
+<a class="faction" style="--color:#a8005d" href="factions/legions-of-silence"><div class="symbol">😈</div><div class="faction-name">Legions of Silence</div></a>
+<a class="faction" style="--color:#63005a" href="factions/syndicates"><div class="symbol">🔫</div><div class="faction-name">Syndicates</div></a>
+<a class="faction former" style="--color:#02cc78" href="factions/dewhelm-drug-ring"><div class="symbol">🧪</div><div class="faction-name">Dewhelm Drug Ring<span class="former-tag">FORMER</span></div></a>
+<a class="faction former" style="--color:#36191a" href="factions/gourmands"><div class="symbol">😋</div><div class="faction-name">Gourmands<span class="former-tag">FORMER</span></div></a>
+<a class="faction" style="--color:#015943" href="factions/stilldead"><div class="symbol">💀</div><div class="faction-name">Stilldead</div></a>
+<a class="faction" style="--color:#2e2622" href="factions/slitherers"><div class="symbol">🐍</div><div class="faction-name">Slitherers</div></a>
+<a class="faction" style="--color:#9bc1d4" href="factions/the-rothold"><div class="symbol">⚔️</div><div class="faction-name">The Rothold</div></a>
+<a class="faction" style="--color:#998129" href="factions/donfair-empire"><div class="symbol">🏰</div><div class="faction-name">Donfair Empire</div></a>
+<a class="faction" style="--color:#c40000" href="factions/court-of-princes"><div class="symbol">👑</div><div class="faction-name">Court of Princes</div></a>
+<a class="faction" style="--color:#3e524f" href="factions/garnus-alliance"><div class="symbol">⛰️</div><div class="faction-name">Garnus Alliance</div></a>
+<a class="faction" style="--color:#3d3d3d" href="factions/dwarves-of-ervein"><div class="symbol">⚒️</div><div class="faction-name">Dwarves of Ervein</div></a>
+<a class="faction" style="--color:#a66100" href="factions/splintered-tavern"><div class="symbol">🍺</div><div class="faction-name">Splintered Tavern</div></a>
 </div>
