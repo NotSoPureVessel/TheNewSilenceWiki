@@ -7,7 +7,11 @@ title: Factions
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
     gap: 1rem;
-    margin: 1rem 0;
+    margin: 2rem 0;
+    width: 90vw;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
   }
 
   .faction {
