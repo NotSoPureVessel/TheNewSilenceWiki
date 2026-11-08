@@ -8,7 +8,7 @@ title: Factions
     grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
     gap: 1rem;
     margin: 2rem 0;
-    width: 90vw;
+    width: 70vw;
     position: relative;
     left: 50%;
     transform: translateX(-50%);
