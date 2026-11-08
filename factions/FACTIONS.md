@@ -68,6 +68,8 @@ title: Factions
 
 # Factions
 
+The various forces which call the Heartlands home, or have a vested interest in its events.
+
 <div class="faction-grid">
 <a class="faction" style="--color:#2b5c8a" href="factions/church-of-time"><div class="symbol">🔭</div><div class="faction-name">Church of Time</div></a>
 <a class="faction" style="--color:#3a6f9f" href="factions/keep-of-time"><div class="symbol">🧭</div><div class="faction-name">Keep of Time</div></a>
