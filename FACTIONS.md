@@ -71,13 +71,13 @@ title: Factions
 The various forces which call the Heartlands home, or have a vested interest in its events.
 
 <div class="faction-grid">
-<a class="faction" style="--color:#2b5c8a" href="factions/church-of-time"><div class="symbol">🔭</div><div class="faction-name">Church of Time</div></a>
-<a class="faction" style="--color:#3a6f9f" href="factions/keep-of-time"><div class="symbol">🧭</div><div class="faction-name">Keep of Time</div></a>
-<a class="faction" style="--color:#4c7a6b" href="factions/breathing-moulde"><div class="symbol">⛭</div><div class="faction-name">Breathing Moulde</div></a>
-<a class="faction" style="--color:#5b4a8a" href="factions/aastral-court"><div class="symbol">⚖️</div><div class="faction-name">Aastral Court</div></a>
-<a class="faction" style="--color:#6b6f7a" href="factions/penitents-of-the-timeless-wastes"><div class="symbol">❄️</div><div class="faction-name">Penitents of the Timeless Wastes</div></a>
-<a class="faction" style="--color:#3f7d4a" href="factions/church-of-life"><div class="symbol">🐐</div><div class="faction-name">Church of Life</div></a>
-<a class="faction" style="--color:#a0522d" href="factions/bard-board"><div class="symbol">🪉</div><div class="faction-name">Bard Board</div></a>
+<a class="faction" style="--color:#00f0fc" href="factions/church-of-time"><div class="symbol">🔭</div><div class="faction-name">Church of Time</div></a>
+<a class="faction" style="--color:#6e00c2" href="factions/keep-of-time"><div class="symbol">🧭</div><div class="faction-name">Keep of Time</div></a>
+<a class="faction" style="--color:#012545" href="factions/breathing-moulde"><div class="symbol">⛭</div><div class="faction-name">Breathing Moulde</div></a>
+<a class="faction" style="--color:#5b4a8a" href="factions/aastral-court"><div class="symbol">⚖️</div><div class="faction-name">Astral Court</div></a>
+<a class="faction" style="--color:#730103" href="factions/penitents-of-the-timeless-wastes"><div class="symbol">❄️</div><div class="faction-name">Penitents of the Timeless Wastes</div></a>
+<a class="faction" style="--color:#97b1c7" href="factions/church-of-life"><div class="symbol">🐐</div><div class="faction-name">Church of Life</div></a>
+<a class="faction" style="--color:#047502" href="factions/bard-board"><div class="symbol">🪉</div><div class="faction-name">Bard Board</div></a>
 <a class="faction former" style="--color:#2e6b52" href="factions/elven-council"><div class="symbol">🌿</div><div class="faction-name">Elven Council<span class="former-tag">FORMER</span></div></a>
 <a class="faction" style="--color:#7a7a5a" href="factions/penitents-of-the-lifeless-wastes"><div class="symbol">🌋</div><div class="faction-name">Penitents of the Lifeless Wastes</div></a>
 <a class="faction" style="--color:#444444" href="factions/legions-of-silence"><div class="symbol">😈</div><div class="faction-name">Legions of Silence</div></a>
