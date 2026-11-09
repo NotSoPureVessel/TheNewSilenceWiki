@@ -34,7 +34,7 @@ title: The Church of Time
 
   .panel-body .item {
     margin-bottom: 0.7rem;
-    color: #1a1a1a;
+    color: #ccaf85;
   }
 
   .panel-body .item:last-child {
