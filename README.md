@@ -1,5 +1,6 @@
 ---
 title: Homepage
+permalink: /
 ---
 
 ## The New Silence
