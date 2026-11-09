@@ -19,7 +19,7 @@ title: The Church of Time
   }
 
   .panel-title {
-    margin: 0;
+    margin: 0rem 0 1.5rem;
     padding: 0.8rem 0;
     background: #000;
     color: #fff;
