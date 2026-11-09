@@ -12,7 +12,7 @@ title: The Church of Time
   }
 
   .panel {
-    background: var(--panel-color, #d6e4f5);
+    background: var(--panel-color, #ccae85);
     border: 2px solid rgba(0, 0, 0, 0.25);
     border-radius: 12px;
     overflow: hidden;
@@ -34,7 +34,7 @@ title: The Church of Time
 
   .panel-body .item {
     margin-bottom: 0.7rem;
-    color: #ccaf85;
+    color: #1a1a1a;
   }
 
   .panel-body .item:last-child {
