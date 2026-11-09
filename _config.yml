@@ -1,3 +1,5 @@
+baseurl: "/TheNewSilenceWiki"
+
 defaults:
   - scope:
       path: ""
