@@ -1,5 +1,5 @@
 ---
-title: The Church of Time
+title: Keep of Time
 ---
 
 <style>
@@ -46,40 +46,34 @@ title: The Church of Time
   }
 </style>
 
-[Home](https://notsopurevessel.github.io/TheNewSilenceWiki) > [Factions](https://notsopurevessel.github.io/TheNewSilenceWiki/FACTIONS) > [The Church of Time](https://notsopurevessel.github.io/TheNewSilenceWiki/factions/church-of-time)
+[Home](https://notsopurevessel.github.io/TheNewSilenceWiki) > [Factions](https://notsopurevessel.github.io/TheNewSilenceWiki/FACTIONS) > [The Church of Time](https://notsopurevessel.github.io/TheNewSilenceWiki/factions/keep-of-time)
 
-## The Church of Time
+## Keep of Time
 
 Headquartered in Ervein, capital of the [Donfair Empire](https://notsopurevessel.github.io/TheNewSilenceWiki/factions/donfair-empire).
 
 Worships Theos, Goddess of Time, watcher of stars and fates.
 
-One of the two theological superpowers in the heartlands, and one of the two major adversarial parties during the Century of Screams.
+Dedicated to cataloging all aspects of history such that the mistakes of the past are not repeated.
+It contains several departments, including the Department of Arts History, Department of Technological History, Department of Paracausal Affairs, Department of Natural History, and Department of Natural History. There is also rumored to be a Cognitohazard Containment Wing deep beneath the Keep where the most dangerous magical artifacts are kept.
 
 <div class="columns">
 <div class="panel">
 <h2 class="panel-title">Members</h2>
-<div class="panel-body">
-<div class="item">Soren [Pope]</div>
-<div class="item">Draken Fraid [Inquisitor]</div>
-<div class="item">Nemo</div>
-<div class="item">Ahab</div>
-<div class="item">Minestrone</div>
-<div class="item">Peleus Brand [Formerly Pope, Now Off-Plane]</div>
-<div class="item">Galliard Timbers [Formerly, Now Off-Plane]</div>
-<div class="item">Lorenzo [Formerly, Deceased]</div>
-<div class="item">Kalkiev, the Coral Spectator [Formerly, Deceased]</div>
+  <div class="panel-body">
+  <div class="item">Drone Nemo </div>
+  <div class="item">Drone Ahab </div>
+  <div class="item">Archiver Pax \[Formerly, Current Status Unknown\] </div>
 </div>
 </div>
 <div class="panel">
 <h2 class="panel-title">Connected Factions</h2>
 <div class="panel-body">
-<div class="item"><a href="https://notsopurevessel.github.io/TheNewSilenceWiki/factions/keep-of-time">Keep of Time</a></div>
+<div class="item"><a href="https://notsopurevessel.github.io/TheNewSilenceWiki/factions/church-of-time">Church of Time</a></div>
 <div class="item"><a href="https://notsopurevessel.github.io/TheNewSilenceWiki/factions/breathing-moulde">Breathing Moulde</a></div>
 <div class="item"><a href="https://notsopurevessel.github.io/TheNewSilenceWiki/factions/astral-court">Astral Court</a></div>
 <div class="item"><a href="https://notsopurevessel.github.io/TheNewSilenceWiki/factions/penitents-of-the-timeless-wastes">Penitents of the Timeless Wastes</a></div>
 <div class="item"><a href="https://notsopurevessel.github.io/TheNewSilenceWiki/factions/donfair-empire">Donfair Empire</a></div>
-<div class="item"><a href="https://notsopurevessel.github.io/TheNewSilenceWiki/factions/gourmands">The Gourmands</a></div>
 </div>
 </div>
 </div>
