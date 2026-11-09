@@ -14,7 +14,7 @@ title: The Church of Time
   .panel {
     background: var(--panel-color, #ccae85);
     border: 2px solid rgba(0, 0, 0, 0.25);
-    border-radius: 12px;
+    padding-top: 0.6rem;
     overflow: hidden;
   }
 
