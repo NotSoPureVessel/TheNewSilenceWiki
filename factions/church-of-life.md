@@ -52,7 +52,7 @@ title: The Church of Life
 
 Headquartered in Dewhelm, capital of Faefall and home of the Elves.
 
-Worships Ogrimmal, God of Life, watcher of stars and fates.
+Worships Ogrimmal, God of Life, watcher of waters and bloods.
 
 One of the two theological superpowers in the heartlands, and one of the two major adversarial parties during the Century of Screams.
 
@@ -64,6 +64,9 @@ One of the two theological superpowers in the heartlands, and one of the two maj
   <div class="item">Mars [Inquisitor]</div>
   <div class="item">Ains Mericount [Inquisitor]</div>
   <div class="item">Papa Sand</div>
+  <div class="item">Bartley</div>
+  <div class="item">Thrasher Gorefist</div>
+  <div class="item">Joey</div>
   <div class="item">Lestat</div>
   <div class="item">Cruncher</div>
   <div class="item">Dewhelm Fentanyl Czar [Formerly, Deceased]</div>
