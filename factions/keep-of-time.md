@@ -46,7 +46,7 @@ title: Keep of Time
   }
 </style>
 
-[Home](https://notsopurevessel.github.io/TheNewSilenceWiki) > [Factions](https://notsopurevessel.github.io/TheNewSilenceWiki/FACTIONS) > [The Church of Time](https://notsopurevessel.github.io/TheNewSilenceWiki/factions/keep-of-time)
+[Home](https://notsopurevessel.github.io/TheNewSilenceWiki) > [Factions](https://notsopurevessel.github.io/TheNewSilenceWiki/FACTIONS) > [Keep of Time](https://notsopurevessel.github.io/TheNewSilenceWiki/factions/keep-of-time)
 
 ## Keep of Time
 
