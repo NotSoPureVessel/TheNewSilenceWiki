@@ -67,14 +67,14 @@ Outside the Court, there seem to be other forces at play in the Astral Plane, in
   <div class="item">Peleus Brand [Demigod Council]</div>
   <div class="item">Galliard Timbers [Demigod Council]</div>
   <div class="item">Tyralith [Demigod Council]</div>
+  <div class="item">Shyn Mael</div>
+  <div class="item">Grifiel</div>
   <div class="item">Winfrey</div>
   <div class="item">Oka</div>
   <div class="item">Tik-Tik</div>
   <div class="item">Montague</div>
-  <div class="item">Shyn Mael</div>
-  <div class="item">Grifiel</div>
   <div class="item">Joe [Formerly, Deceased]</div>
-  <div class="item">Grifiel [Formerly, Deceased]</div>
+  <div class="item">John [Formerly, Deceased]</div>
 </div>
 </div>
 <div class="panel">
