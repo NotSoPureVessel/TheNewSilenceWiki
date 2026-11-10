@@ -281,12 +281,6 @@ An overview of Heartlands history, compiled by the Keep of Time.
 
   <div class="entry">
   <div class="label">Year 230</div>
-    <div class="details">A gnome named Galliard Timbers sacrifices his many centuries of life to receive revelations from Theos.</div>
-    <div class="details">He becomes known as the first Artificer.</div>
-  </div>
-
-  <div class="entry">
-  <div class="label">Year 230</div>
     <div class="details">A pact is made across all nations to hunt the dragons to extinction.</div>
   </div>
 
