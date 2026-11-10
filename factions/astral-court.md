@@ -46,7 +46,7 @@ title: Astral Court
   }
 </style>
 
-[Home](https://notsopurevessel.github.io/TheNewSilenceWiki) > [Factions](https://notsopurevessel.github.io/TheNewSilenceWiki/FACTIONS) > [The Church of Time](https://notsopurevessel.github.io/TheNewSilenceWiki/factions/astral-court)
+[Home](https://notsopurevessel.github.io/TheNewSilenceWiki) > [Factions](https://notsopurevessel.github.io/TheNewSilenceWiki/FACTIONS) > [Astral Court](https://notsopurevessel.github.io/TheNewSilenceWiki/factions/astral-court)
 
 ## Astral Court
 
@@ -77,7 +77,7 @@ There are all manner of beings in the Court which don't exist in the Heartlands,
 <h2 class="panel-title">Connected Factions</h2>
 <div class="panel-body">
 <div class="item"><a href="https://notsopurevessel.github.io/TheNewSilenceWiki/factions/church-of-time">Keep of Time</a></div>
-<div class="item"><a href="https://notsopurevessel.github.io/TheNewSilenceWiki/factions/breathing-moulde">Breathing Moulde</a></div>Gourmands</a></div>
+<div class="item"><a href="https://notsopurevessel.github.io/TheNewSilenceWiki/factions/breathing-moulde">Breathing Moulde</a></div>
 </div>
 </div>
 </div>
