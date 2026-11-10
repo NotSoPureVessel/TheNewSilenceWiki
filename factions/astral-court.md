@@ -76,7 +76,7 @@ There are all manner of beings in the Court which don't exist in the Heartlands,
 <div class="panel">
 <h2 class="panel-title">Connected Factions</h2>
 <div class="panel-body">
-<div class="item"><a href="https://notsopurevessel.github.io/TheNewSilenceWiki/factions/church-of-time">Keep of Time</a></div>
+<div class="item"><a href="https://notsopurevessel.github.io/TheNewSilenceWiki/factions/church-of-time">Church of Time</a></div>
 <div class="item"><a href="https://notsopurevessel.github.io/TheNewSilenceWiki/factions/breathing-moulde">Breathing Moulde</a></div>
 </div>
 </div>
