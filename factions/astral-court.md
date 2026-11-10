@@ -56,6 +56,8 @@ Worships Theos, Goddess of Time, watcher of stars and fates. Even among the foll
 
 There are all manner of beings in the Court which don't exist in the Heartlands, including the Gith, Autognomes, Plasmoids, Aasimar, Thri-Kreen, and Space Hamsters.
 
+Outside the Court, there seem to be other forces at play in the Astral Plane, including arsonist aliens and space pirates.
+
 <div class="columns">
 <div class="panel">
 <h2 class="panel-title">Members</h2>
@@ -71,6 +73,8 @@ There are all manner of beings in the Court which don't exist in the Heartlands,
   <div class="item">Montague</div>
   <div class="item">Shyn Mael</div>
   <div class="item">Grifiel</div>
+  <div class="item">Joe [Formerly, Deceased]</div>
+  <div class="item">Grifiel [Formerly, Deceased]</div>
 </div>
 </div>
 <div class="panel">
