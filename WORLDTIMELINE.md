@@ -192,7 +192,7 @@ An overview of Heartlands history, compiled by the Keep of Time.
   <div class="era-title">Age of Conquest<span class="era-dates">Year 0 - Year 34</span></div>  
   <div class="entry">
   <div class="label">Year 0</div>
-    <div class="details">A hobbit named Barrabas Kane sets out to unite the scattered fiefdoms in the plains.</div>
+    <div class="details">A halfling named Barrabas Kane sets out to unite the scattered fiefdoms in the plains.</div>
     <div class="details">He declares himself first king, and names the plains under his control Donfair.</div>
   </div>
 
